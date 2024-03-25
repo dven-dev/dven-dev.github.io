@@ -54,6 +54,22 @@
     width: 100%;
 }
 
+ .sidebar-social {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255,255,255,0.75);
+    text-align: center;
+    min-height: 100vh
+}
+
+.sidebar-social a {
+    color: #fff;
+    border-bottom-color: rgba(255,255,255,0.2);
+    text-decoration-color: rgba(255,255,255,0.2)
+}
+
 /* Style for both button and anchor */
 .contentbtn button,
 .contentbtn a {
