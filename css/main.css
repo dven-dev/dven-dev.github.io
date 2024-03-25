@@ -33,6 +33,13 @@
     text-decoration-color: rgba(255,255,255,0.2)
 }
 
+.sidebar-social>ul {
+    display: inline-block;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
 .content {
     padding-bottom: 5%;
     padding-top: 8%;
