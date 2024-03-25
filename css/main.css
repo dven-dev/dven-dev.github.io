@@ -34,12 +34,10 @@
 }
 
 .sidebar-social>ul {
-    /*display: inline-block;*/
-    display: flex;
+    display: inline-block;
     list-style: none;
     padding-left: 0;
     margin-bottom: 0;
-    justify-content: space-evenly;
 }
 
 .sidebar-social>ul>li {
