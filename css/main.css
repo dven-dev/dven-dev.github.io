@@ -62,6 +62,11 @@
     padding-top: 8%;
 }
 
+.content1 {
+    /*padding-bottom: 5%;*/
+    padding-top: 8%;
+}
+
 .content div {
     position: relative;
     display: flex;
