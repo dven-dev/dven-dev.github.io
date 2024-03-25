@@ -53,8 +53,8 @@
     padding: .5rem 0;
     line-height: 3rem;
     text-decoration: none;
-    border-bottom-width: 2px;
-    border-bottom-style: solid;
+    /*border-bottom-width: 2px;
+    border-bottom-style: solid;*/
 }
 
 .content {
