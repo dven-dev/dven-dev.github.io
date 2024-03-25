@@ -19,7 +19,7 @@
 
  .sidebar-social {
     position: relative;
-    display: flex;
+    /*display: flex;*/
     justify-content: center;
     align-items: center;
     color: rgba(255,255,255,0.75);
@@ -39,6 +39,7 @@
     list-style: none;
     padding-left: 0;
     margin-bottom: 0;
+    justify-content: space-evenly;
 }
 
 li {
