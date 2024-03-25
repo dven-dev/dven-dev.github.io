@@ -41,6 +41,11 @@
     margin-bottom: 0;
 }
 
+li {
+    display: flex;
+    justify-content: center;
+}
+
 .content {
     padding-bottom: 5%;
     padding-top: 8%;
