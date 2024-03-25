@@ -42,9 +42,8 @@
     justify-content: space-evenly;
 }
 
-li {
-    display: flex;
-    justify-content: center;
+.sidebar-social>ul>li {
+    float: left;
 }
 
 .content {
