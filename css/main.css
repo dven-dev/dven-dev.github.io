@@ -116,6 +116,6 @@
 /* Responsive */
 @media screen AND (max-width: 700px) {
     .mainbg {
-        height: 100vh !important;
+        /*height: 100vh !important;*/
     }
 }
